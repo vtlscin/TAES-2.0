@@ -4,7 +4,8 @@ public class alteracaoLeft {
 
 	static 
 	{
-		//Criando constante no Base
-		int x = 1;
+		//Criando constante no Base 
+		//Alterando constante no left 
+		int y = 0;
 	}
 }

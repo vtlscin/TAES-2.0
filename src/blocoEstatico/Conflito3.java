@@ -4,7 +4,10 @@ public class Conflito3 {
 	
 	static 
 	{
-		String x = "Criação";
+		//Removendo constante e adicionando outra
+		String y = "Criação";
+		//Adicionando outra constante
+		String x = "Modificando";
 	}
 	
 }

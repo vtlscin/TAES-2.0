@@ -6,6 +6,8 @@ public class Conflito3 {
 	{
 		//Removendo constante e adicionando outra
 		String y = "Criação";
+		//Adicionando outra constante
+		String x = "Modificando";
 	}
 	
 }

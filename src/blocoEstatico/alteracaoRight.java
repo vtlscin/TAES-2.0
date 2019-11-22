@@ -5,7 +5,8 @@ public class alteracaoRight {
 	static 
 	{
 		//Criando constante no Base
-		int x = 1;
+		//Alterando constante no Right
+		int z = 2;
 	}
 	
 }
